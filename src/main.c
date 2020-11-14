@@ -11,7 +11,6 @@ void input()
 {
     char buff[8];
     scanf("%s", buff);
-    printf("%p\n", other);
 }
 
 int main()
