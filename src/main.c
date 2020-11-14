@@ -9,8 +9,9 @@ void other()
 
 void input()
 {
-    char buf[7];
-    scanf("%s", buf);
+    char buff[8];
+    scanf("%s", buff);
+    printf("%p\n", other);
 }
 
 int main()
