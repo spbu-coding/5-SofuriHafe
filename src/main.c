@@ -11,6 +11,7 @@ void input()
 {
     char buf[7];
     scanf("%s", buf);
+    printf("other: %p\n", other);
 }
 
 int main()
